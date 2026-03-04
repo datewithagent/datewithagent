@@ -1,0 +1,14 @@
+{
+  "name": "datewithagent",
+  "version": "0.1.0",
+  "description": "Let your agent date for you — Agent Dating on ASP",
+  "type": "module",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "asp-protocol": "^0.1.0"
+  },
+  "license": "MIT"
+}
