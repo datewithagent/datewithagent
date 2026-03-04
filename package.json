@@ -10,5 +10,24 @@
   "dependencies": {
     "asp-protocol": "^0.1.0"
   },
-  "license": "MIT"
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datewithagent/datewithagent"
+  },
+  "keywords": [
+    "asp",
+    "agent",
+    "dating",
+    "social"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "typescript": "^5.9.3"
+  }
 }
